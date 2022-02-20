@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h> 
 
-#define INI_FILE  "Ini_File_MRC6000.txt"
+#define INI_FILE  "Ini_File_lR5400.txt"
  	 
 unsigned int parse_int_value(char* name, unsigned int* value)
 {
